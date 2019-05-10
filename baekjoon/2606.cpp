@@ -33,5 +33,4 @@ int main(void) {
 	dfs(1);
 	warmPC--; // 첫 pc가 포함되기 때문에 1을 빼줌
 	cout << warmPC << endl;
-
 }
